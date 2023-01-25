@@ -1,7 +1,7 @@
 <h1 align="left">Hi! 👋</h1>
 <h3 align="left">Im Luca 18yo, a beginner developer.</h3>
 
-*   🌍  I'm based in Lichtenstein
+* 🌍 I'm based in Lichtenstein
 * :penguin: Windows 11 user
 * :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1/master/gpg.key)
 * How to reach me: <a rel="me" href="https://lvcq1.github.io">Contact options</a>
