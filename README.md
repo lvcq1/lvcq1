@@ -6,4 +6,4 @@
 - How to reach me: <a rel="me" href="https://lvcq1.github.io">Contact options</a>
 <!-- - 📫 How to reach me: [me@lvcq.xyz](mailto:me@lvcq.xyz) -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcq1&layout=compact&hide_border=true&theme=dark" alt="lvcq1" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcq1&show_icons=true&hide_border=true&theme=dark" alt="lvcq1" /></p>****
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lvcq1&show_icons=true&hide_border=true&theme=dark" alt="lvcq1" /></p>
