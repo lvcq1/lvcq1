@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Luca 18yo, a beginner developer.</h3>
+<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)</h1>
+<h3 align="center">Im Luca 18yo, a beginner developer.</h3>
 
-- :penguin: Windows 11 user
+*   🌍  I'm based in Lichtenstein
+* :penguin: Windows 11 user
 - :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1/master/gpg.key)
 - How to reach me: <a rel="me" href="https://lvcq1.github.io">Contact options</a>
 <!-- - 📫 How to reach me: [me@lvcq.xyz](mailto:me@lvcq.xyz) -->
