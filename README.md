@@ -2,7 +2,7 @@
 <h3 align="center">I'm Luca 18yo, a beginner developer.</h3>
 
 - :penguin: Windows 11 user
-- :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1.github.io/master/gpg.key)
+- :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1/master/gpg.key)
 - How to reach me: <a rel="me" href="https://lvcq1.github.io">Contact options</a>
 <!-- - 📫 How to reach me: [me@lvcq.xyz](mailto:me@lvcq.xyz) -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvcq1&layout=compact&hide_border=true&theme=dark" alt="lvcq1" /></p>
