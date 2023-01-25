@@ -3,7 +3,7 @@
 
 * 🌍 I'm based in Lichtenstein
 * :penguin: Windows 11 user
-* :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1/master/gpg.key)
+<!--* :key: GPG key: [B613E8FB9BC34761](https://raw.githubusercontent.com/lvcq1/lvcq1/master/gpg.key) -->
 * How to reach me: <a rel="me" href="https://lvcq1.github.io">Contact options</a>
 <!-- - 📫 How to reach me: [me@lvcq.xyz](mailto:me@lvcq.xyz) -->
 <a href="https://github-readme-stats.vercel.app/api?username=lvcq1&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" target="_blank"><img alt="Github Stats 1" src="https://github-readme-stats.vercel.app/api?username=lvcq1&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" /></a>
